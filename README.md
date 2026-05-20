@@ -9,10 +9,8 @@ This Tableau dashboard provides an interactive analysis of Amazon Prime Video mo
 ## Dashboard Preview
 
 <div align="center">
-  <img src="./screenshots/dashboard.png" alt="Amazon Prime Video Tableau Dashboard" width="95%">
+  <img src="screenshots/dashboard.png" alt="Amazon Prime Video Tableau Dashboard" width="95%" />
 </div>
-
-> ⚠️ Make sure the image file is saved inside the `screenshots` folder with the exact name `dashboard.png`.
 
 ---
 
